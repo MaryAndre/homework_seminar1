@@ -1,0 +1,15 @@
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\bin\Debug\net6.0\Exrs001.exe
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\bin\Debug\net6.0\Exrs001.deps.json
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\bin\Debug\net6.0\Exrs001.runtimeconfig.json
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\bin\Debug\net6.0\Exrs001.dll
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\bin\Debug\net6.0\Exrs001.pdb
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\obj\Debug\net6.0\Exrs001.csproj.AssemblyReference.cache
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\obj\Debug\net6.0\Exrs001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\obj\Debug\net6.0\Exrs001.AssemblyInfoInputs.cache
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\obj\Debug\net6.0\Exrs001.AssemblyInfo.cs
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\obj\Debug\net6.0\Exrs001.csproj.CoreCompileInputs.cache
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\obj\Debug\net6.0\Exrs001.dll
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\obj\Debug\net6.0\refint\Exrs001.dll
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\obj\Debug\net6.0\Exrs001.pdb
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\obj\Debug\net6.0\Exrs001.genruntimeconfig.cache
+C:\Users\d1ko\Desktop\homework_seminar1\Exrs001\obj\Debug\net6.0\ref\Exrs001.dll
