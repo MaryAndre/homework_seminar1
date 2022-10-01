@@ -4,10 +4,9 @@ Console.Clear();
 
 Console.Write("Введите число: ");
 int numberA = int.Parse(Console.ReadLine()!);
+ 
 
-int x = numberA % 2; 
-
-if (x == 0)
+if (numberA % 2 == 0)
 {
     Console.WriteLine($"Число: {numberA} четное");
 }
